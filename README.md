@@ -6,6 +6,7 @@ This project was split into three main phases:
 1. Analyzing historical game data for EPL, MLB, NBA, and NFL
 2. Simulating seasons for each of the four leagues, analyzing the results, and comparing them
 3. Testing how expanding or contracting the MLB playoffs affects how often the best team wins the championship
+
 The main branch houses the final Jupyter workbooks for the project
 The CSV-Supporting-Files branch is for source files that are used by workbooks
 The CSV-Results branch is for results CSV files some of which are also used by workbooks
